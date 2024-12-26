@@ -1,0 +1,110 @@
+export const PRODUCTS_LIST: Product[] = [
+  {
+    id: '1',
+    name: 'APPLE iPhone 14 (Blue, 128 GB)',
+    imageUrl:
+      'https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-blue?wid=400&hei=500&fmt=jpeg&qlt=95&.v=1661027780203',
+    originalPrice: 79990,
+    discountPrice: 65999,
+    offerPercentage: 17,
+    rating: 4.7,
+    ratingCount: 8794,
+    tags: [
+      '12MP Front Camera',
+      '12MP Dual Rear Camera',
+      '15.49 cm (6.1 inch) Super Retina XDR Display',
+    ],
+  },
+  {
+    id: '2',
+    name: 'APPLE iPhone 14 (Starlight, 256 GB)',
+    imageUrl:
+      'https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-starlight?wid=400&hei=500&fmt=jpeg&qlt=95&.v=1661027780203',
+    originalPrice: 89900,
+    discountPrice: 75999,
+    offerPercentage: 15,
+    rating: 4.7,
+    ratingCount: 8794,
+    tags: ['12MP Front Camera', '15.49 cm (6.1 inch) Super Retina XDR Display'],
+  },
+  {
+    id: '3',
+    name: 'APPLE iPhone 14 (Purple, 128 GB)',
+    imageUrl:
+      'https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-purple?wid=400&hei=500&fmt=jpeg&qlt=95&.v=1661027780203',
+    originalPrice: 79990,
+    discountPrice: 66999,
+    offerPercentage: 16,
+    rating: 4.7,
+    ratingCount: 8794,
+    tags: ['12MP Dual Rear Camera', '15.49 cm Super Retina XDR Display'],
+  },
+  {
+    id: '4',
+    name: 'APPLE iPhone 11 (White, 64 GB)',
+    imageUrl:
+      'https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-11-select-2019-white?wid=400&hei=500&fmt=jpeg&qlt=95&.v=1566956144763',
+    originalPrice: 43900,
+    discountPrice: 38999,
+    offerPercentage: 11,
+    rating: 4.6,
+    ratingCount: 180810,
+    tags: [
+      '12MP Front Camera',
+      '12MP Dual Rear Camera',
+      '6.1-inch Liquid Retina HD Display',
+    ],
+  },
+  {
+    id: '5',
+    name: 'APPLE iPhone 13 (Midnight, 128 GB)',
+    imageUrl:
+      'https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-midnight-select-2021?wid=400&hei=500&fmt=jpeg&qlt=95&.v=1631652956000',
+    originalPrice: 69990,
+    discountPrice: 61999,
+    offerPercentage: 11,
+    rating: 4.8,
+    ratingCount: 12500,
+    tags: ['15.49 cm (6.1 inch) Super Retina XDR Display', 'A15 Bionic Chip'],
+  },
+  {
+    id: '6',
+    name: 'APPLE iPhone SE (3rd Gen, Red, 128 GB)',
+    imageUrl:
+      'https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-se-2022-red-select?wid=400&hei=500&fmt=jpeg&qlt=95&.v=1645572315938',
+    originalPrice: 43900,
+    discountPrice: 37999,
+    offerPercentage: 14,
+    rating: 4.5,
+    ratingCount: 8300,
+    tags: [
+      '12MP Rear Camera',
+      '4.7-inch Retina HD Display',
+      'A15 Bionic Chip',
+    ],
+  },
+  {
+    id: '7',
+    name: 'APPLE iPhone 12 (Blue, 64 GB)',
+    imageUrl:
+      'https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-blue-select-2020?wid=400&hei=500&fmt=jpeg&qlt=95&.v=1604021661000',
+    originalPrice: 59990,
+    discountPrice: 53999,
+    offerPercentage: 10,
+    rating: 4.7,
+    ratingCount: 20000,
+    tags: ['6.1-inch Super Retina XDR Display', 'A14 Bionic Chip'],
+  },
+  {
+    id: '8',
+    name: 'APPLE iPhone 13 Mini (Pink, 256 GB)',
+    imageUrl:
+      'https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-mini-pink-select-2021?wid=400&hei=500&fmt=jpeg&qlt=95&.v=1631652955000',
+    originalPrice: 74900,
+    discountPrice: 66999,
+    offerPercentage: 10,
+    rating: 4.6,
+    ratingCount: 9500,
+    tags: ['5.4-inch Super Retina XDR Display', 'A15 Bionic Chip'],
+  },
+];
